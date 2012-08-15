@@ -19,3 +19,7 @@ thread handles all the existing projectiles (erasing, moving, and if not
 expired, redrawing), which are stored in a Vector.  Admittedly, this
 application does not really *require* threading, and would be simpler without
 it, plus it doesn't do proper synchronization, but that's not the point!
+
+You can see a demo at:
+
+  https://dl.dropbox.com/u/9324440/fireworks_applet/html.html
